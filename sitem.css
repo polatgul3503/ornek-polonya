@@ -1,0 +1,103 @@
+.soft-mor {
+    border-right: 1px solid #CCCCCC;
+    /*border-bottom: 1px solid #CCCCCC;*/
+    background-color: #444444;
+    color: white;
+}
+.soft-mor-kenarsiz {
+    /*border-right: 1px solid #CCCCCC;*/
+    /*border-bottom: 1px solid #CCCCCC;*/
+    background-color: #444444;
+    color: white;
+}
+
+.renk {
+    background-color: #6B4F34;
+}
+
+.logo img {
+    height: 30px;
+    width: 30px;
+}
+
+.img img {
+    height: 50px;
+    width: 50px;
+}
+
+.img2 img {
+    height: 200px;
+    width: 200px;
+}
+
+.marka {
+    position: relative;
+    top: 5px;
+    text-align: center;
+}
+
+.logo-konum {
+    position: relative;
+    left: 70px;
+    top: 4px;
+}
+
+.kategori-boyut {
+    height: 28px;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.kategori-boyut:hover {
+    background-color: #2B2B2B;
+}
+
+.input input {
+    width: 30%;
+}
+
+.p p {
+    text-align: center;
+    font-weight: bold;
+    background-color: #2B2B2B;
+    color: white;
+    text-shadow: 2px 2px 3px #444444;
+}
+
+.btn-90 {
+    width: 90%;
+
+}
+
+.btn-ortala button {
+    text-align: center;
+    position: relative;
+    left: 22px;
+}
+.btnOrtala button {
+    text-align: center;
+    position: relative;
+    left: 17px;
+}
+
+.select select {
+    width: 185px;
+}
+
+.dikey-ortala {
+    margin-top: 50vh;
+    transform: translateY(-50%);
+}
+
+.lavishly-yours-regular {
+    font-family: "Lavishly Yours", cursive;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 40px;
+    color: white;
+}
+
+.yazi-ortala{
+    text-align: center;
+    
+}
